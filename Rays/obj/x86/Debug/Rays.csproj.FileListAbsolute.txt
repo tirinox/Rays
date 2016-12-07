@@ -1,0 +1,67 @@
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\bin\Debug\Rays.exe
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\bin\Debug\Rays.pdb
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\Rays.MainForm.resources
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\Rays.Properties.Resources.resources
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\Rays.exe
+C:\Users\Tirinox\AppData\Local\Temporary Projects\Rays\obj\x86\Debug\Rays.pdb
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.exe
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.pdb
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Rays.exe
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Rays.pdb
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.FreeType.dll
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Lua.dll
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.OpenGl.dll
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Platform.Windows.dll
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.FreeType.xml
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Lua.xml
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.OpenGl.xml
+J:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Platform.Windows.xml
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.MainForm.resources
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Properties.Resources.resources
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.exe
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.pdb
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Rays.exe
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Rays.pdb
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.FreeType.dll
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.OpenGl.dll
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Platform.Windows.dll
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.FreeType.xml
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.OpenGl.xml
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Tao.Platform.Windows.xml
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Properties.Resources.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\CSScriptLibrary.dll
+M:\_PROGRAM_dup\_csharp\Rays\Rays\bin\Debug\Rays.exe.config
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.AboutForm.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.AppSettings.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.MainForm.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.MiniHelpForm.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.ProjectSettings.resources
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.TransformEditor.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Rays.exe.config
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.exe
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.pdb
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Rays.exe
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Rays.pdb
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Tao.FreeType.xml
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Tao.OpenGl.xml
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Forms.AboutForm.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Forms.AppSettings.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Forms.MainForm.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Forms.MiniHelpForm.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Forms.ProjectSettings.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.Properties.Resources.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\Rays.TransformEditor.resources
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tirinox\Documents\Visual Studio 2010\Projects\Rays-21.01.12\Rays\Rays\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\_PROGRAM_dup\_csharp\Rays\Rays\obj\x86\Debug\Rays.Forms.PlotForm.resources
